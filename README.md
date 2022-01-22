@@ -1,6 +1,6 @@
 # My-restaurant
 # Toast
-* Toast restaurant is a restaurant that decided to show you its services online. We would like you to visit us to enjoy delicious food or snacks. The main location is in the city of Zarqa
+* Hungry restaurant is a restaurant that decided to show you its services online. We would like you to visit us to enjoy delicious food or snacks. The main location is in the city of Zarqa
 ## Website wireframe
 Added the following to the wireframe:
 - Logo
