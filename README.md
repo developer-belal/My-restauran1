@@ -10,4 +10,4 @@ Added the following to the wireframe:
 - some images to describe what will be expected from this menu.
 - some contact information which we will to our social media and contact number.
 
-Please [click here](./gg.JPG) to view the wireframe.
+Please [click here](./gg.png) to view the wireframe.
